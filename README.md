@@ -1,11 +1,15 @@
-# Sendai 2026 – Labs
+# Sendai 2026 - Labs
 
-This repository contains the student-facing lab materials for the Sendai 2026 course.
+Student lab materials.
 
 ## Available Labs
+- Labs not included in this build
+
 
 ## Tools
-- [tools](./tools)
+- [Docker cleanup tips](./tools/Docker_cleanup_tips.md)
+- [Reference Guide for labs](./tools/Reference_Guide_for_labs.md)
+- [tools tips](./tools/tools_tips.md)
 
-_Last updated: 2026-04-19 19:12_
+_Last updated: 2026-04-21 21:52_
 
