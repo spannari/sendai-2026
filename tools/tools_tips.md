@@ -7,9 +7,12 @@ This document outlines the hardware and software environment required for our la
 ### Hardware
 
 1. **Laptop:** Your primary development station for writing code and managing containers.
-2. **Mobile Phone:** Used as a video source.
-3. **Raspberry Pi:** Our "Edge Gateway".
-4. **Wi-Fi Mobile Router:** Provides the local area network (LAN) that allows all devices to communicate.
+   - Connect to the supplied wifi-network, when working with Pi
+3. **Mobile Phone:** Used as a video source.
+4. **Raspberry Pi:** Our "Edge Gateway".
+   - IP address range: 192.168.1.118 - 126
+6. **Wi-Fi Mobile Router:** Provides the local area network (LAN) that allows all devices to communicate.
+   - SSID: aterm-00e555-4-a or aterm-00e555-4-g PWD: 989f4ca2bc85b
 
 ### Software
 
