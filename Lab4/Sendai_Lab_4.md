@@ -13,9 +13,10 @@ Transform your Raspberry Pi into a simulated CCTV Hub that manages virtual camer
 2. Copy the two video files and put them in the folder. Or you can choose your own versions.
    [Camera feed 1](./files/camera_feed.mp4)
    [Camera feed 2](./files/camera_feed2.mp4) 1. Download the files in a folder on your laptop. 2. Open a **new terminal window** (not logged into SSH), and run the following command:
-   `bash
+   ```bash
         scp camera_feed.mp4 [username]@[pi-ip]:~/my-video-gateway/
-        ` 3. Repeat for the other file.
+   ```
+3. Repeat for the other file.
 
 ## Part 2: Single camera
 
