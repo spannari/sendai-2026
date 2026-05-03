@@ -12,7 +12,7 @@ This document outlines the hardware and software environment required for our la
 4. **Raspberry Pi:** Our "Edge Gateway".
    - IP address range: 192.168.1.118 - 126
 6. **Wi-Fi Mobile Router:** Provides the local area network (LAN) that allows all devices to communicate.
-   - SSID: aterm-00e555-4-a or aterm-00e555-4-g PWD: 989f4ca2bc85b
+   - SSID: aterm-00e555-4-a or aterm-00e444-g PWD: 989f4ca2bc85b
 
 ### Software
 
